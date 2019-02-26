@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Art Of Seeing:</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description>Volume One by Kent Barrett</description>
+        <item>
+            <title>relaxBeach</title>
+            <link>slides/relaxBeach.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/relaxBeach.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/relaxBeach.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/relaxBeach.jpg</guid>
+        </item>
+        <item>
+            <title>before dawn</title>
+            <link>slides/before dawn.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/before dawn.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/before dawn.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/before dawn.jpg</guid>
+        </item>
+        <item>
+            <title>south side snakes</title>
+            <link>slides/south side snakes.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/south side snakes.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/south side snakes.jpg" width="534" height="800"/>
+            <guid isPermaLink="false">slides/south side snakes.jpg</guid>
+        </item>
+        <item>
+            <title>MiddleCoveStorm4</title>
+            <link>slides/MiddleCoveStorm4.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MiddleCoveStorm4.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/MiddleCoveStorm4.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/MiddleCoveStorm4.jpg</guid>
+        </item>
+        <item>
+            <title>FerrylandShore</title>
+            <link>slides/FerrylandShore.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FerrylandShore.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/FerrylandShore.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/FerrylandShore.jpg</guid>
+        </item>
+        <item>
+            <title>MercedesWindowElliston</title>
+            <link>slides/MercedesWindowElliston.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MercedesWindowElliston.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/MercedesWindowElliston.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/MercedesWindowElliston.jpg</guid>
+        </item>
+        <item>
+            <title>TreesFogBonnavista2</title>
+            <link>slides/TreesFogBonnavista2.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/TreesFogBonnavista2.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/TreesFogBonnavista2.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/TreesFogBonnavista2.jpg</guid>
+        </item>
+        <item>
+            <title>Daisies</title>
+            <link>slides/Daisies.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Daisies.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Daisies.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/Daisies.jpg</guid>
+        </item>
+        <item>
+            <title>BatteryAcid2</title>
+            <link>slides/BatteryAcid2.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BatteryAcid2.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/BatteryAcid2.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/BatteryAcid2.jpg</guid>
+        </item>
+        <item>
+            <title>MiddleCoveStorm2</title>
+            <link>slides/MiddleCoveStorm2.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MiddleCoveStorm2.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/MiddleCoveStorm2.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/MiddleCoveStorm2.jpg</guid>
+        </item>
+        <item>
+            <title>birthday</title>
+            <link>slides/birthday.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/birthday.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/birthday.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/birthday.jpg</guid>
+        </item>
+        <item>
+            <title>east pond 2</title>
+            <link>slides/east pond 2.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/east pond 2.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/east pond 2.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/east pond 2.jpg</guid>
+        </item>
+        <item>
+            <title>snowball3</title>
+            <link>slides/snowball3.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/snowball3.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/snowball3.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/snowball3.jpg</guid>
+        </item>
+        <item>
+            <title>Cover2</title>
+            <link>slides/Cover2.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Cover2.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Cover2.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/Cover2.jpg</guid>
+        </item>
+        <item>
+            <title>waiting-for-trout</title>
+            <link>slides/waiting-for-trout.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/waiting-for-trout.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/waiting-for-trout.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/waiting-for-trout.jpg</guid>
+        </item>
+        <item>
+            <title>electric marigolds</title>
+            <link>slides/electric marigolds.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/electric marigolds.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/electric marigolds.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/electric marigolds.jpg</guid>
+        </item>
+        <item>
+            <title>dandies1</title>
+            <link>slides/dandies1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dandies1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/dandies1.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/dandies1.jpg</guid>
+        </item>
+        <item>
+            <title>east pond</title>
+            <link>slides/east pond.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/east pond.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/east pond.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/east pond.jpg</guid>
+        </item>
+        <item>
+            <title>snowball-boat</title>
+            <link>slides/snowball-boat.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/snowball-boat.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/snowball-boat.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/snowball-boat.jpg</guid>
+        </item>
+        <item>
+            <title>rocks brush river gold rocks</title>
+            <link>slides/rocks brush river gold rocks.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rocks brush river gold rocks.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/rocks brush river gold rocks.jpg" width="534" height="800"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/rocks brush river gold rocks.jpg</guid>
+        </item>
+        <item>
+            <title>rocks brush 1</title>
+            <link>slides/rocks brush 1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rocks brush 1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/rocks brush 1.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/rocks brush 1.jpg</guid>
+        </item>
+        <item>
+            <title>barrens-2-suitcase-CRW_9679</title>
+            <link>slides/barrens-2-suitcase-CRW_9679.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/barrens-2-suitcase-CRW_9679.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/barrens-2-suitcase-CRW_9679.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/barrens-2-suitcase-CRW_9679.jpg</guid>
+        </item>
+        <item>
+            <title>Ellis-Window</title>
+            <link>slides/Ellis-Window.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Ellis-Window.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Ellis-Window.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/Ellis-Window.jpg</guid>
+        </item>
+        <item>
+            <title>road-to-mannies</title>
+            <link>slides/road-to-mannies.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/road-to-mannies.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/road-to-mannies.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/road-to-mannies.jpg</guid>
+        </item>
+        <item>
+            <title>rocks-tuntra-4</title>
+            <link>slides/rocks-tuntra-4.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rocks-tuntra-4.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/rocks-tuntra-4.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/rocks-tuntra-4.jpg</guid>
+        </item>
+        <item>
+            <title>white frothy</title>
+            <link>slides/white frothy.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/white frothy.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/white frothy.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/white frothy.jpg</guid>
+        </item>
+        <item>
+            <title>branch-nice-1</title>
+            <link>slides/branch-nice-1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/branch-nice-1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/branch-nice-1.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/branch-nice-1.jpg</guid>
+        </item>
+        <item>
+            <title>rocks-water-1</title>
+            <link>slides/rocks-water-1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rocks-water-1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/rocks-water-1.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/rocks-water-1.jpg</guid>
+        </item>
+        <item>
+            <title>leavse-stream-2</title>
+            <link>slides/leavse-stream-2.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/leavse-stream-2.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/leavse-stream-2.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/leavse-stream-2.jpg</guid>
+        </item>
+        <item>
+            <title>stream-green-1</title>
+            <link>slides/stream-green-1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/stream-green-1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/stream-green-1.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/stream-green-1.jpg</guid>
+        </item>
+        <item>
+            <title>v-stream bush soft 1</title>
+            <link>slides/v-stream bush soft 1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/v-stream bush soft 1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/v-stream bush soft 1.jpg" width="534" height="800"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/v-stream bush soft 1.jpg</guid>
+        </item>
+        <item>
+            <title>electric-rock-1</title>
+            <link>slides/electric-rock-1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/electric-rock-1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/electric-rock-1.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/electric-rock-1.jpg</guid>
+        </item>
+        <item>
+            <title>erratic vertical 1jpg</title>
+            <link>slides/erratic vertical 1jpg.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/erratic vertical 1jpg.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/erratic vertical 1jpg.jpg" width="534" height="800"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/erratic vertical 1jpg.jpg</guid>
+        </item>
+        <item>
+            <title>rockvalley1</title>
+            <link>slides/rockvalley1.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/rockvalley1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/rockvalley1.jpg" width="900" height="600"/>
+            <jalbum:exif originalDate="6/4/11 5:54 PM" cameraMake="Canon" cameraModel="Canon EOS 10D"/>
+            <guid isPermaLink="false">slides/rockvalley1.jpg</guid>
+        </item>
+        <item>
+            <title>eratic3</title>
+            <link>slides/eratic3.jpg#</link>
+            <pubDate>Tue, 10 Jul 2012 12:22:15 -0230</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/eratic3.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/eratic3.jpg" width="900" height="600"/>
+            <guid isPermaLink="false">slides/eratic3.jpg</guid>
+        </item>
+    </channel>
+</rss>
